@@ -1,0 +1,5 @@
+function
+lugaresBacanasParaPassear(diaDaSemana, bairro)
+{
+
+}
